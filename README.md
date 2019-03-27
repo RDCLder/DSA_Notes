@@ -74,7 +74,7 @@
   - [Limitations of Dynamic Programming](./Dynamic_Programming/limitations.md)
   - [Exercises](./Dynamic_Programming/exercises.md)
 
-- Intractable Problems and Approximation Algorithms (Coming Soon... probably not)
+- Intractable Problems and Approximation Algorithms (Coming in our lifetime... maybe)
   - [Problems and Reductions](./Intractable_Problems/problems_and_reductions.md)
   - [Reductions for Algorithms](./Intractable_Problems/)
   - [Elementary Hardness Reductions](./Intractable_Problems/)
