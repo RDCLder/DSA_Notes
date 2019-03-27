@@ -54,12 +54,12 @@
   - [Exercises](./Weighted_Graph/exercises.md)
 
 - Combinatorial Search and Heuristic Methods (Coming Soon)
-  - [Backtracking](./Combinatorial Search/backtracking.md)
-  - [Search Pruning](./Combinatorial Search/search_pruning.md)
-  - [Sudoku](./Combinatorial Search/sudoku.md)
-  - [Heuristic Search Methods](./Combinatorial Search/heuristic_search.md)
-  - [Parallel Algorithms](./Combinatorial Search/parallel_algorithms.md)
-  - [Exercises](./Combinatorial Search/exercises.md)
+  - [Backtracking](./Combinatorial_Search/backtracking.md)
+  - [Search Pruning](./Combinatorial_Search/search_pruning.md)
+  - [Sudoku](./Combinatorial_Search/sudoku.md)
+  - [Heuristic Search Methods](./Combinatorial_Search/heuristic_search.md)
+  - [Parallel Algorithms](./Combinatorial_Search/parallel_algorithms.md)
+  - [Exercises](./Combinatorial_Search/exercises.md)
 
 - Dynamic Programming (Coming Soon)
   - [Caching vs. Computation](./Dynamic_Programming/caching_vs_computation.md)
