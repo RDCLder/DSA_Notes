@@ -2,9 +2,13 @@
 
 ## Preface
 
-- The notes below are heavily-inspired by the following sources:
+- The notes below are heavily-inspired by the following sources
   - MIT's [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
   - Skiena's [The Algorithm Design Manual](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202/ref=sr_1_1?crid=85S73W4L0CYJ&keywords=algorithm+design+manual&qid=1553726069&s=gateway&sprefix=algorithm+design%2Caps%2C159&sr=8-1).
+
+- Solutions are implemented in the following languages
+  - JavaScript
+  - Python
 
 ## Topics
 
